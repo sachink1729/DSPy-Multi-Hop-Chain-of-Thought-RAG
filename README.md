@@ -14,6 +14,7 @@ This repository demonstrates the integration of Multi-Hop Chain of Thought (CoT)
 - **Multi-Hop Reasoning**: Utilizes chain of thought processes to solve multi-step problems.
 - **Retrieval-Augmented Generation**: Incorporates external knowledge retrieval to support and enhance generation tasks.
 - **DSPy Integration**: Leverages the power of DSPy for managing and executing the pipeline.
+- **Indexify Integration**: Real-time extraction engine and pre-built extraction adapters. 
 
 ### Getting Started
 
