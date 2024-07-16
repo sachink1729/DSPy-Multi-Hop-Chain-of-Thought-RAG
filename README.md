@@ -33,3 +33,16 @@ git clone https://github.com/sachink1729/DSPy-Multi-Hop-Chain-of-Thought-RAG.git
 cd DSPy-Multi-Hop-Chain-of-Thought-RAG
 pip install -r requirements.txt
 ```
+
+###Usage
+
+Run the notebook to see the Multi-Hop CoT with RAG in action:
+```bash
+jupyter notebook multi_hop_cot_rag_dspy_indexify.ipynb
+```
+
+###Contributing
+We welcome contributions! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+###License
+This project is licensed under the MIT License. See the LICENSE file for details.
