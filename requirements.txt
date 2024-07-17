@@ -1,3 +1,4 @@
 indexify-dspy
 indexify
 indexify-extractor-sdk
+gradio==4.31.0
