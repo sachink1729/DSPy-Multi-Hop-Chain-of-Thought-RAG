@@ -1,5 +1,6 @@
 # DSPy-Multi-Hop-Chain-of-Thought-RAG
 --------------------------------------------------------------------
+The step by step approach is published in Towards Data Science: https://towardsdatascience.com/improving-rag-answer-quality-through-complex-reasoning-2608ec6c2a65
 
 ![cover](https://github.com/sachink1729/DSPy-Multi-Hop-Chain-of-Thought-RAG/blob/main/cover.png)
 
